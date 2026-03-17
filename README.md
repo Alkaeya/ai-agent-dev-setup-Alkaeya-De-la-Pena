@@ -4,7 +4,7 @@
 Alkaeya De la Pena
 
 ## Workshop Cohort
-[Your Cohort Here]
+Winter 2026 Cohort
 
 ## Development Environment Checklist
 
