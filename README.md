@@ -36,11 +36,14 @@ Command: `git --version`
 - Query commit history and pull request information
 
 **Test Command:** "List my GitHub repositories using the GitHub MCP server"
+<img width="1168" height="762" alt="Screenshot 2026-03-17 183836" src="https://github.com/user-attachments/assets/7bfd6ce8-5db5-4151-a796-38d9030664f1" />
 
 ### ✅ Memory MCP Server
 **Status:** Working
 
 **Purpose:** Enables AI agents to maintain persistent memory across conversations and sessions.
+<img width="1057" height="290" alt="image" src="https://github.com/user-attachments/assets/2208ce31-5d6c-418c-8381-86636427b963" />
+
 
 **Functionality:**
 - Store and retrieve information between conversations
