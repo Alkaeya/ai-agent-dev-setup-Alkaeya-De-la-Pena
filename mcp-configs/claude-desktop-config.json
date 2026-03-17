@@ -1,0 +1,23 @@
+{
+  "mcpServers": {
+    "rolldice": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-everything", "rolldice"]
+    },
+    "bootcamp-ai-agent": {
+      "command": "npx",
+      "args": ["-y", "bootcamp-ai-agent-server"]
+    },
+    "calendar-booking": {
+      "command": "npx",
+      "args": ["-y", "@calcom/cal-mcp"]
+    },
+    "github": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-github"],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "your_personal_access_token_here"
+      }
+    }
+  }
+}
