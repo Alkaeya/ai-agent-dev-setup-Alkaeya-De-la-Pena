@@ -8,6 +8,8 @@ MCP servers have fundamentally changed how I interact with AI tools. Instead of 
 
 One of the most significant changes I've experienced is in how I approach debugging and testing. With AI agents capable of running automated tests, analyzing code for potential issues, and even suggesting fixes, the development cycle becomes much more efficient. However, this also requires developers to think differently about code quality and maintainability, as AI agents can amplify both good and bad practices.
 
+Working with MCP servers specifically—particularly GitHub and Memory—has shown me the practical power of this standardization. The GitHub MCP server enables me to query and manage repositories directly within conversations, breaking down the barrier between code development and AI assistance. The Memory server demonstrates how agents can maintain context across sessions, creating a foundation for truly intelligent development partnerships.
+
 The concept of agent orchestration has been particularly fascinating. Learning how to design systems where multiple AI agents work together, each specializing in different tasks, has expanded my understanding of distributed systems and microservices architecture. It's like building a team of specialized AI workers that can collaborate seamlessly.
 
 Looking ahead to the remaining nine weeks of the program, I'm excited about exploring advanced agent orchestration techniques, learning to build custom MCP servers, and understanding how to create robust AI-human collaborative systems. I expect to deepen my understanding of prompt engineering, agent safety and reliability, and the ethical considerations of deploying AI agents in production environments. 
