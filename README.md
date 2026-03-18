@@ -40,6 +40,7 @@ Command: `git --version`
 
 ### ✅ Memory MCP Server
 **Status:** Working
+<img width="1146" height="552" alt="image" src="https://github.com/user-attachments/assets/80d15ba5-81d7-48b1-be11-1ec208f25476" />
 
 **Purpose:** Enables AI agents to maintain persistent memory across conversations and sessions.
 <img width="1057" height="290" alt="image" src="https://github.com/user-attachments/assets/2208ce31-5d6c-418c-8381-86636427b963" />
